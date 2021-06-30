@@ -1,0 +1,7 @@
+Literatūra       Vincas-Krėvė    Romanas       1999 800   12,00 Netinkami išleidimo metai, turi būti [2000:2020]
+Literatūra       Vincas-Krėvė    Romanas       2000 790   14,00 
+AKnyga           Adomas          Literatūra    2010 600   10,50 
+Pasakos          Salomėja        Poezija       2010 800   35,60 
+Kūriniai         Petras          Biografija    2010 600   10,50 
+AKnyga           Adomas          Literatūra    2010 600   10,50 
+AKnyga           Adomas          Literatūra    2010 600   10,50 
